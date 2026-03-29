@@ -59,4 +59,4 @@ python linear_regression_scratch.py
 
 🔗 Project Link
 
-[Add your GitHub / Kaggle notebook link here]
+[https://github.com/prateekvyahut-ux/Placement-linear-regression]
